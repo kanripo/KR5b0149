@@ -1,8 +1,3 @@
-#+TITLE: 靈寶領教濟度金書目錄 / HFL
+#+TITLE: Data branch for _data
 
-#+DATE: 2015-08-28 23:50:23.106722
-* 版本
- |       HFL|【正統道藏・涵芬樓版】|
- |      ZTDZ|【正統道藏・三家本】|
-目次
- - [[file:KR5b0149_000.txt][靈寶領教濟度金書目錄 0]]
+This branch contains data files that are used by the system.  The folder =imglist= has a list of digital facsimile pages for each file of the text.  This information is used to display text and image side-by-side.
